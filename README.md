@@ -2,5 +2,5 @@
 Developed an iOS app using Xcode and integrated CoreML and TensorFlow to recognize sculptures via the camera function, leveraging ARKit and UIKit to activate historical videos that improve user interaction and cultural enlightenment.
 
 
-#Note on Source Code Availability
-Due to the large file size of the Xcode project, the full source code is not included in this repository. If you'd like to access the complete project or specific components, feel free to reach out to me via email or through GitHub issues.
+# Note on Source Code Availability
+This repository contains only the code for the sculpture detection model and its integration. Due to the large file size of the full Xcode project, it is not included here. If you are interested in accessing the complete project, please feel free to contact me via email or through the GitHub issues section.
